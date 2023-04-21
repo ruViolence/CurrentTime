@@ -1,0 +1,4 @@
+name: CurrentTimeCore
+version: ${project.version}
+main: ru.violence.currenttime.core.CurrentTimeCorePlugin
+depend: [CoreAPI]

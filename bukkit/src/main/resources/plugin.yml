@@ -1,0 +1,6 @@
+name: CurrentTime
+version: ${project.version}
+main: ru.violence.currenttime.bukkit.CurrentTimePlugin
+depend: [CoreAPI]
+commands:
+  currenttime:
